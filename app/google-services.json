@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69870983162",
+    "project_id": "ebooker2pointo",
+    "storage_bucket": "ebooker2pointo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69870983162:android:5a77110ff0c48194457643",
+        "android_client_info": {
+          "package_name": "com.anstudios.ebooker20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69870983162-djhpr46odsnict5m58e665fvjmhto3iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOT3eOpfIwOu8Ii3sDwLFuvR3fpv1_t0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69870983162-djhpr46odsnict5m58e665fvjmhto3iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
